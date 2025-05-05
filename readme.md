@@ -36,26 +36,10 @@
 - 6.3 Parameter Sweep (`.STEP`)
 - 6.4 Sumber Tegangan/Arus Terkontrol (VCCS, CCCS)
 
-#### **7. Integrasi dengan Tools Lain**
-- 7.1 Menggambar Netlist dengan gEDA/KiCad
-- 7.2 Simulasi GUI dengan `ngspice-shared`
-- 7.3 Analisis Data dengan Python (NumPy/Matplotlib)
-
-#### **8. Troubleshooting Umum**
-- 8.1 Error Sintaks Netlist
-- 8.2 Masalah Konvergensi
-- 8.3 Praktik Terbaik untuk Netlist yang Efisien
-
-#### **9. Studi Kasus dan Proyek**
-- 9.1 Rangkaian Penguat Sederhana (Common Emitter)
-- 9.2 Rangkaian Osilator RC
-- 9.3 Simulasi MOSFET Inverter
-- 9.4 Proyek Akhir: Rangkaian Power Supply Sederhana
-
-#### **10. Referensi dan Sumber Belajar**
-- 10.1 Dokumentasi Resmi Ngspice
-- 10.2 Forum dan Komunitas
-- 10.3 Buku dan Tutorial Terkait
+#### **7. Referensi dan Sumber Belajar**
+- 7.1 Dokumentasi Resmi Ngspice
+- 7.2 Forum dan Komunitas
+- 7.3 Buku dan Tutorial Terkait
 
 #### **Lampiran**
 - A. Daftar Perintah Ngspice
