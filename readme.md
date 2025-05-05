@@ -28,8 +28,7 @@
 #### **5. Kontrol Simulasi dan Output**
 - 5.1 Perintah `.OP`, `.DC`, `.TRAN`, `.AC`
 - 5.2 Menyimpan Hasil dengan `.PRINT` dan `.PLOT`
-- 5.3 Visualisasi Hasil dengan `gnuplot` atau Python
-- 5.4 Troubleshooting Konvergensi Simulasi
+- 5.3 Troubleshooting Konvergensi Simulasi
 
 #### **6. Komponen dan Model Lanjutan**
 - 6.1 Dioda dan Transistor (Model SPICE)
